@@ -33,3 +33,6 @@ The Restaurant Order Management System is a web application designed to efficien
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/CotNeo/restaurant-order-management-system.git
+** USİNG
+Install the required dependencies in the backend folder using npm:
+npm install
