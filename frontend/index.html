@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Order Management System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Restaurant Order Management System</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#menu">Menu</a></li>
+            <li><a href="#orders">Orders</a></li>
+            <li><a href="#new-meal">Add New Meal</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="menu">
+            <h2>Menu</h2>
+            <div id="meal-list" class="grid-container">
+                <!-- Meals will be listed here -->
+            </div>
+        </section>
+
+        <section id="orders">
+            <h2>Orders</h2>
+            <div id="order-list" class="grid-container">
+                <!-- Orders will be listed here -->
+            </div>
+        </section>
+
+        <section id="new-meal">
+            <h2>Add New Meal</h2>
+            <form id="meal-form">
+                <label for="name">Meal Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="price">Price:</label>
+                <input type="number" id="price" name="price" required>
+
+                <label for="description">Description:</label>
+                <textarea id="description" name="description" required></textarea>
+
+                <label for="category">Category:</label>
+                <input type="text" id="category" name="category" required>
+
+                <button type="submit">Add</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Restaurant Order Management System</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,218 @@
+{"level":"info","message":"Sunucu http://localhost:3000 adresinde çalışıyor.","timestamp":"2024-08-11T06:04:47.895Z"}
+{"level":"info","message":"Veritabanına başarıyla bağlanıldı.","timestamp":"2024-08-11T06:04:47.915Z"}
+{"level":"info","meals":[],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:05:28.555Z"}
+{"level":"info","meals":[],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:06:25.240Z"}
+{"level":"info","message":"Sunucu http://localhost:3000 adresinde çalışıyor.","timestamp":"2024-08-11T06:08:08.052Z"}
+{"level":"info","message":"Veritabanına başarıyla bağlanıldı.","timestamp":"2024-08-11T06:08:08.066Z"}
+{"level":"info","meals":[],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:08:11.413Z"}
+{"body":{"category":"Fast Food","description":"sıcak olsun","name":"Test1","price":"100"},"level":"info","message":"Yeni yemek ekleme isteği alındı:","timestamp":"2024-08-11T06:08:28.132Z"}
+{"level":"info","message":"Yeni yemek veritabanına eklendi:","newMeal":{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},"timestamp":"2024-08-11T06:08:28.172Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:08:32.303Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:09:14.682Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:10:05.550Z"}
+{"level":"info","message":"Sunucu http://localhost:3000 adresinde çalışıyor.","timestamp":"2024-08-11T06:23:52.574Z"}
+{"level":"info","message":"Veritabanına başarıyla bağlanıldı.","timestamp":"2024-08-11T06:23:52.588Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:23:55.619Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:23:55.624Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:00.602Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:05.603Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:10.610Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:15.612Z"}
+{"body":{"category":"döner","description":"sıcak olsun","name":"Test1","price":"50"},"level":"info","message":"Yeni yemek ekleme isteği alındı:","timestamp":"2024-08-11T06:24:19.383Z"}
+{"level":"info","message":"Yeni yemek veritabanına eklendi:","newMeal":{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},"timestamp":"2024-08-11T06:24:19.391Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:24:21.465Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:21.466Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:25.602Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:30.608Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:24:34.673Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:34.674Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:39.680Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:44.672Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:49.672Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:24:54.683Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:25:00.094Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:00.254Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:04.674Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:09.682Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:14.675Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:19.684Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:24.680Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:30.248Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:35.253Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:40.254Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:45.249Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:50.243Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:25:55.243Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:26:00.247Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:26:05.252Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:26:10.252Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:26:15.252Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:26:20.254Z"}
+{"level":"info","message":"Sunucu http://localhost:3000 adresinde çalışıyor.","timestamp":"2024-08-11T06:29:17.734Z"}
+{"level":"info","message":"Veritabanına başarıyla bağlanıldı.","timestamp":"2024-08-11T06:29:17.749Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:29:45.261Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:29:50.253Z"}
+{"level":"info","message":"Sunucu http://localhost:3000 adresinde çalışıyor.","timestamp":"2024-08-11T06:30:17.590Z"}
+{"level":"info","message":"Veritabanına başarıyla bağlanıldı.","timestamp":"2024-08-11T06:30:17.605Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:31:29.690Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:29.693Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:31:32.120Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:32.122Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:31:33.286Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:33.287Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:38.288Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:43.287Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:48.301Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:53.303Z"}
+{"body":{"category":"merhaba ","description":"merhaba dünya","name":"hello world","price":"2313412"},"level":"info","message":"Yeni yemek ekleme isteği alındı:","timestamp":"2024-08-11T06:31:55.303Z"}
+{"level":"info","message":"Yeni yemek veritabanına eklendi:","newMeal":{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},"timestamp":"2024-08-11T06:31:55.310Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:31:58.154Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:31:58.290Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:03.286Z"}
+{"body":{"category":"merhaba ","description":"merhaba dünya","name":"hello world","price":"2313412"},"level":"info","message":"Yeni yemek ekleme isteği alındı:","timestamp":"2024-08-11T06:32:05.629Z"}
+{"level":"info","message":"Yeni yemek veritabanına eklendi:","newMeal":{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},"timestamp":"2024-08-11T06:32:05.631Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:32:06.867Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:08.300Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:08.670Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:32:08.671Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:13.674Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:18.670Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:24.243Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:29.251Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:34.242Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:39.249Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:44.244Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:32:49.245Z"}
+{"level":"info","message":"Sunucu http://localhost:3000 adresinde çalışıyor.","timestamp":"2024-08-11T06:33:50.289Z"}
+{"level":"info","message":"Veritabanına başarıyla bağlanıldı.","timestamp":"2024-08-11T06:33:50.304Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:33:52.852Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:33:53.674Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:33:56.045Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:33:56.047Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:01.051Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:06.049Z"}
+{"body":{"category":"test","description":"test","name":"Test1","price":"312321"},"level":"info","message":"Yeni yemek ekleme isteği alındı:","timestamp":"2024-08-11T06:34:09.946Z"}
+{"level":"info","message":"Yeni yemek veritabanına eklendi:","newMeal":{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321},"timestamp":"2024-08-11T06:34:09.954Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b8555c6105e51f9029822d","category":"Fast Food","description":"sıcak olsun","name":"Test1","price":100},{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:34:11.043Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:11.045Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:16.057Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:21.040Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:26.050Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:31.244Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:36.047Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:41.049Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:46.046Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:51.046Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:34:56.247Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:01.246Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:35:01.571Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:35:05.204Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:06.240Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:11.252Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:16.245Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:21.254Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:26.250Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:31.241Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:36.250Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:41.247Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:46.246Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:35:51.241Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:36:06.748Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:11.650Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:16.039Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:21.242Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:26.246Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:31.249Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:36.246Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:41.248Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:46.254Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:51.249Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:36:56.241Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:37:01.246Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:37:06.247Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:37:11.249Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:37:16.254Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:37:36.241Z"}
+{"level":"info","message":"Sunucu http://localhost:3000 adresinde çalışıyor.","timestamp":"2024-08-11T06:39:15.108Z"}
+{"level":"info","message":"Veritabanına başarıyla bağlanıldı.","timestamp":"2024-08-11T06:39:15.122Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:39:19.868Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:39:23.915Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:39:28.914Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:39:33.928Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:39:38.913Z"}
+{"body":{"category":"adsad","description":"sadas","name":"Furkan Akar","price":"151"},"level":"info","message":"Yeni yemek ekleme isteği alındı:","timestamp":"2024-08-11T06:39:39.466Z"}
+{"level":"info","message":"Yeni yemek veritabanına eklendi:","newMeal":{"__v":0,"_id":"66b85cab9b6aca6a689e9c03","category":"adsad","description":"sadas","name":"Furkan Akar","price":151},"timestamp":"2024-08-11T06:39:39.474Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85913d1fdff6bc84eb6f5","category":"döner","description":"sıcak olsun","name":"Test1","price":50},{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321},{"__v":0,"_id":"66b85cab9b6aca6a689e9c03","category":"adsad","description":"sadas","name":"Furkan Akar","price":151}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:39:43.989Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85adb43cee46a50b04c99","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321},{"__v":0,"_id":"66b85cab9b6aca6a689e9c03","category":"adsad","description":"sadas","name":"Furkan Akar","price":151}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:40:21.908Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:21.910Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:23.925Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85ae543cee46a50b04c9e","category":"merhaba ","description":"merhaba dünya","name":"hello world","price":2313412},{"__v":0,"_id":"66b85b6135a29f12b4835f2c","category":"test","description":"test","name":"Test1","price":312321},{"__v":0,"_id":"66b85cab9b6aca6a689e9c03","category":"adsad","description":"sadas","name":"Furkan Akar","price":151}],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:40:28.093Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:28.095Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:33.099Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:38.098Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:43.104Z"}
+{"level":"info","meals":[],"message":"Yemekler veritabanından çekildi:","timestamp":"2024-08-11T06:40:44.461Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:44.462Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:49.463Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:40:55.253Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:00.246Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:05.240Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:10.244Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:15.254Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:20.243Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:25.249Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:30.248Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:35.240Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:40.260Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:45.250Z"}
+{"level":"info","message":"Siparişler veritabanından çekildi:","orders":[],"timestamp":"2024-08-11T06:41:50.249Z"}
+{"level":"info","message":"Server running at http://localhost:3000","timestamp":"2024-08-11T06:44:34.147Z"}
+{"level":"info","message":"Successfully connected to the database.","timestamp":"2024-08-11T06:44:34.162Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:44:36.014Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:44:39.462Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:44:44.465Z"}
+{"body":{"category":"Fast Food","description":"2das","name":"Furkan Akar","price":"11"},"level":"info","message":"New meal request received:","timestamp":"2024-08-11T06:44:46.216Z"}
+{"level":"info","message":"New meal added to the database:","newMeal":{"__v":0,"_id":"66b85ddebcd06a220458e390","category":"Fast Food","description":"2das","name":"Furkan Akar","price":11},"timestamp":"2024-08-11T06:44:46.237Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85ddebcd06a220458e390","category":"Fast Food","description":"2das","name":"Furkan Akar","price":11}],"message":"Meals fetched from the database:","timestamp":"2024-08-11T06:44:47.454Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:44:49.464Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:44:54.463Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:44:59.472Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:04.466Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:09.476Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:14.477Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:19.461Z"}
+{"body":{"category":"Fast Food","description":"2das","name":"Furkan Akar","price":"11"},"level":"info","message":"New meal request received:","timestamp":"2024-08-11T06:45:22.652Z"}
+{"level":"info","message":"New meal added to the database:","newMeal":{"__v":0,"_id":"66b85e02bcd06a220458e39a","category":"Fast Food","description":"2das","name":"Furkan Akar","price":11},"timestamp":"2024-08-11T06:45:22.655Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85e02bcd06a220458e39a","category":"Fast Food","description":"2das","name":"Furkan Akar","price":11}],"message":"Meals fetched from the database:","timestamp":"2024-08-11T06:45:24.012Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:24.460Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:29.460Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85e02bcd06a220458e39a","category":"Fast Food","description":"2das","name":"Furkan Akar","price":11}],"message":"Meals fetched from the database:","timestamp":"2024-08-11T06:45:32.367Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:32.369Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:37.372Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:42.379Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:47.367Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:52.370Z"}
+{"body":{"category":"döner","description":"2321","name":"Furkan Akar","price":"1221"},"level":"info","message":"New meal request received:","timestamp":"2024-08-11T06:45:55.836Z"}
+{"level":"info","message":"New meal added to the database:","newMeal":{"__v":0,"_id":"66b85e23bcd06a220458e3a5","category":"döner","description":"2321","name":"Furkan Akar","price":1221},"timestamp":"2024-08-11T06:45:55.838Z"}
+{"level":"info","meals":[{"__v":0,"_id":"66b85e02bcd06a220458e39a","category":"Fast Food","description":"2das","name":"Furkan Akar","price":11},{"__v":0,"_id":"66b85e23bcd06a220458e3a5","category":"döner","description":"2321","name":"Furkan Akar","price":1221}],"message":"Meals fetched from the database:","timestamp":"2024-08-11T06:45:57.049Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:45:57.366Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:02.378Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:07.380Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:12.377Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:17.367Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:22.377Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:27.366Z"}
+{"level":"info","meals":[],"message":"Meals fetched from the database:","timestamp":"2024-08-11T06:46:28.766Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:28.767Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:33.781Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:38.776Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:44.246Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:49.239Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:54.254Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:46:59.242Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:47:04.251Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:47:09.250Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:47:14.259Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:47:19.250Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:47:24.246Z"}
+{"level":"info","message":"Orders fetched from the database:","orders":[],"timestamp":"2024-08-11T06:47:29.252Z"}
